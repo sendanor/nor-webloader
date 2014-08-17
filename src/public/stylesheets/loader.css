@@ -1,0 +1,40 @@
+html {
+	height: 100%;
+}
+
+body {
+	padding: 50px;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	background-color: #f0f0f0;
+}
+
+a {
+	color: #00B7FF;
+}
+
+.content {
+	text-align: center;
+	vertical-align: middle;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+.loader-container {
+	text-align: center;
+	vertical-align: middle;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+.loader {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
